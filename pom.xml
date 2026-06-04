@@ -85,4 +85,13 @@
             </plugin>
         </plugins>
     </build>
+    <distributionManagement>
+    <repository>
+        <!-- Este ID DEBE coincidir con el ID de tu settings.xml -->
+        <id>github-paquetes</id>
+        <name>GitHub Packages</name>
+        <url>https://maven.pkg.github.com/eliasmelgarejo/trace-flow-spring-boot-starter</url>
+    </repository>
+</distributionManagement>
+
 </project>
