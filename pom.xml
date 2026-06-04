@@ -11,7 +11,7 @@
     
     <groupId>com.traceflow</groupId>
     <artifactId>trace-flow-spring-boot-starter</artifactId>
-    <version>v1.0.0</version>
+    <version>1.0.2</version>
     <name>trace-flow-spring-boot-starter</name>
     <description>Starter for TraceFlow OpenTelemetry Integration</description>
 
