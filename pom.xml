@@ -11,7 +11,7 @@
     
     <groupId>com.traceflow</groupId>
     <artifactId>trace-flow-spring-boot-starter</artifactId>
-    <version>1.0.0</version>
+    <version>v1.0.0</version>
     <name>trace-flow-spring-boot-starter</name>
     <description>Starter for TraceFlow OpenTelemetry Integration</description>
 
@@ -87,8 +87,8 @@
     </build>
     <distributionManagement>
     <repository>
-        <!-- Este ID DEBE coincidir con el ID de tu settings.xml -->
-        <id>github-paquetes</id>
+        <!-- ESTE ID ES EL QUE UNE EL POM CON LAS CREDENCIALES DEL SETTINGS.XML -->
+        <id>github-elias</id> 
         <name>GitHub Packages</name>
         <url>https://maven.pkg.github.com/eliasmelgarejo/trace-flow-spring-boot-starter</url>
     </repository>
