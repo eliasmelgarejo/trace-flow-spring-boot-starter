@@ -35,3 +35,4 @@ build/
 .vscode/
 deploy_output.txt
 .env
+settings.xml

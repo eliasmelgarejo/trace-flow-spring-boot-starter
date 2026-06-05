@@ -11,12 +11,12 @@
     
     <groupId>com.traceflow</groupId>
     <artifactId>trace-flow-spring-boot-starter</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <name>trace-flow-spring-boot-starter</name>
     <description>Starter for TraceFlow OpenTelemetry Integration</description>
 
     <properties>
-        <java.version>25</java.version> <!-- Java 25 -->
+        <java.version>17</java.version> <!-- Cambiado a 17 para retrocompatibilidad con Spring Boot 3 -->
         <opentelemetry.version>1.40.0</opentelemetry.version>
     </properties>
 
@@ -87,7 +87,7 @@
     </build>
 <distributionManagement>
     <repository>
-        <id>github-trace-flow</id>
+        <id>github</id>
         <name>GitHub Packages</name>
         <url>https://maven.pkg.github.com/eliasmelgarejo/trace-flow-spring-boot-starter</url>
     </repository>
