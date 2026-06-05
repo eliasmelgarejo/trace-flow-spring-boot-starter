@@ -1,3 +1,19 @@
+## Licencia
+
+Este proyecto está bajo la licencia **Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0)**.
+
+Puedes usar esta librería libremente, pero NO puedes:
+- Usarla con fines comerciales
+- Modificarla y distribuir la versión modificada
+- Eliminar mi atribución como autor
+
+**Sin garantías**: Esta librería se proporciona "TAL CUAL", sin garantías de ningún tipo.
+
+Para más detalles, consulta el archivo [LICENSE](LICENSE).
+
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+
 # TraceFlow Spring Boot Starter
 
 `trace-flow-spring-boot-starter` es una librería *Plug & Play* diseñada para proveer observabilidad y trazabilidad distribuida automática en arquitecturas de microservicios.

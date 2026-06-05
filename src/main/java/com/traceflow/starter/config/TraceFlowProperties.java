@@ -1,3 +1,7 @@
+// mi_libreria.py
+// Copyright (c) 2024 [Tu Nombre]
+// Licencia: CC BY-NC-ND 4.0 - https://creativecommons.org/licenses/by-nc-nd/4.0/
+
 package com.traceflow.starter.config;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;

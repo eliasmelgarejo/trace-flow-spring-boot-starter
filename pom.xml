@@ -85,10 +85,9 @@
             </plugin>
         </plugins>
     </build>
-    <distributionManagement>
+<distributionManagement>
     <repository>
-        <!-- ESTE ID ES EL QUE UNE EL POM CON LAS CREDENCIALES DEL SETTINGS.XML -->
-        <id>github-elias</id> 
+        <id>github</id> 
         <name>GitHub Packages</name>
         <url>https://maven.pkg.github.com/eliasmelgarejo/trace-flow-spring-boot-starter</url>
     </repository>
