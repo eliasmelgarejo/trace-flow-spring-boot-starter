@@ -87,7 +87,7 @@
     </build>
 <distributionManagement>
     <repository>
-        <id>github</id>
+        <id>github-trace-flow</id>
         <name>GitHub Packages</name>
         <url>https://maven.pkg.github.com/eliasmelgarejo/trace-flow-spring-boot-starter</url>
     </repository>
