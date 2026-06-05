@@ -4,7 +4,6 @@
 
 package com.traceflow.starter.filter;
 
-import com.nimbusds.jwt.SignedJWT;
 import io.opentelemetry.api.baggage.Baggage;
 import io.opentelemetry.api.trace.Span;
 import io.opentelemetry.context.Context;
