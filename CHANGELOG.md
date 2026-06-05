@@ -5,6 +5,15 @@ Todos los cambios notables en este proyecto serán documentados en este archivo.
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto se adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html) (Versionado Semántico).
 
+---
+
+## [1.0.2] - 2026-06-05
+
+### Changed
+- pom properties cambiado a 17 para retrocompatibilidad con Spring Boot 3
+
+---
+
 ## [1.0.0] - 2026-06-04
 
 ### Agregado (Added)
